@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi, I'm NITIN SHARMA
+
+#### 🚀 Senior Software Engineer | Data Engineering | Data Analytics
+
+Welcome to my GitHub profile!
 
 <!--
 **nitinsharma74/nitinsharma74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
