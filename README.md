@@ -1,20 +1,52 @@
-## 👋 Hi, I'm NITIN SHARMA
+<!-- Welcome Header -->
+<h1 align="center">👋 Hi, I’m NITIN SHARMA</h1>
+<h3 align="center">Senior Software Engineer | Data Engineering | Data Analytics Enthusiast</h3>
 
-#### 🚀 Senior Software Engineer | Data Engineering | Data Analytics
+---
 
-Welcome to my GitHub profile!
+## 💼 About Me
 
-<!--
-**nitinsharma74/nitinsharma74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a dedicated software engineer with a strong foundation in computer science and engineering, currently building reliable, scalable systems at **Crunchyroll**.  
+I enjoy solving real-world problems with data-driven solutions and designing systems that help teams make better decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Core Skills
+
+**Primary Focus:**  
+- Data Engineering & Analytics Pipelines  
+- Backend Services & System Design  
+- Data-driven decision enablement
+
+---
+
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NitinSharma74&theme=tokyonight"
+        alt="Profile Summary"
+        width="100%"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NitinSharma74&theme=tokyonight"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+
+---
+
+## 📫 Let’s Connect
+
+🔗 LinkedIn: https://www.linkedin.com/in/nitinsharma74/  
+🌐 Portfolio: https://nitinsharma74.github.io/
+
+✨ Thanks for visiting!
