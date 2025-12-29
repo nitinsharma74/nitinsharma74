@@ -50,3 +50,5 @@ I enjoy solving real-world problems with data-driven solutions and designing sys
 🌐 Portfolio: https://nitinsharma74.github.io/
 
 ✨ Thanks for visiting!
+
+![Profile Views](https://komarev.com/ghpvc/?username=nitinsharma74&color=0891b2&style=for-the-badge)
